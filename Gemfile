@@ -34,6 +34,13 @@ gem 'bootstrap-datepicker-rails'
 gem 'feedjira'
 
 gem 'twitter-bootstrap-rails'
+
+gem "paperclip", "~> 4.1.1"
+
+gem 'twitter'
+
+gem 'CommentsFilter', '~> 0.0.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
